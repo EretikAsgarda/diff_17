@@ -6,7 +6,6 @@ public class Main {
         Product p3 = new Product(101, "Смартфон X (скидка)", 23000, "Электроника"); // тот же id и категория
         Product p4 = new Product(103, "Чехол", 1500, "Аксессуары");
 
-
         System.out.println("=== Товары ===");
         System.out.println(p1);
         System.out.println(p2);
