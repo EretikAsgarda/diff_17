@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         // Создаём товары
         Product p1 = new Product(101, "Смартфон X", 25000, "Электроника");
         Product p2 = new Product(102, "Наушники Pro", 5000, "Аудио");
