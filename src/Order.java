@@ -20,7 +20,6 @@ public class Order {
         return "Заказ[покупатель=" + customer + ", корзина=" + Arrays.toString(basket) + "]";
     }
 
-
     @Override
     public boolean equals(Object obj) {
         if (this == obj) return true;
